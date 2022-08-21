@@ -1,0 +1,9 @@
+# ignore rasa cache
+.rasa
+*.cpython-*.pyc
+
+# ignore rasa models
+models
+
+# ignore rasa graph
+graph.html
